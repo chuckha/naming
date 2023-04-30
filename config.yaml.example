@@ -1,0 +1,6 @@
+- name: 甘々と稲妻
+  videoRegex: '^Amaama to Inazuma - (?P<episode>\d{2}).+\.(?P<ext>mkv)$'
+  subtitleRegex: '^Sweetness & Lightning.S(?P<season>\d{2})E(?P<episode>\d{2})\.JA\.(?P<ext>srt)$'
+- name: しろくまカフェ
+  videoRegex: '^\[Moozzi2\] Shirokuma Cafe - (?P<episode>\d{2}) \(BD 1920x1080 x\.264 Flac\)\.(?P<ext>mkv)$'
+  subtitleRegex: '^\[HorribleSubs\] Polar Bear Cafe - (?P<episode>\d{2}) \[1080p\].ja\.(?P<ext>ass)$'
